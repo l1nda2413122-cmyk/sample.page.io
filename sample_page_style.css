@@ -1,0 +1,14 @@
+body {
+    background: #f7f5f0;
+    color: #242424;
+    font-family: Georgia, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.08;
+}
+
+img {
+    width: 100%;
+}
