@@ -1,5 +1,5 @@
 body {
-    background: #f7f5f0;
+    background: darkgreen;
     color: #242424;
     font-family: Georgia, serif;
 }
@@ -7,6 +7,11 @@ body {
 h1 {
     font-size: 3rem;
     line-height: 1.08;
+    color: aliceblue
+}
+
+p {
+    color: aliceblue;
 }
 
 img {
